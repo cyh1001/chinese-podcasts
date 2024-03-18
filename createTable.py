@@ -1,7 +1,10 @@
 #createTable.py
+'''
+生成markdown表格和文档
+'''
 import csv
-import subprocess
-from useRSSHubapi import get_rss_feed
+# import subprocess
+# from useRSSHubapi import get_rss_feed
 
 # def get_rss_feed(address):
 #     """调用useRSShubapi.py脚本获取RSS feed"""
@@ -26,7 +29,7 @@ end='''
 2. 提交 PR
 3. (自动) PR 被 merge 之后 README 通过 [./script.js](./script.js) 生成
 
-## Thanks
+## 感谢
 
 https://github.com/timqian/chinese-independent-blogs
 '''
