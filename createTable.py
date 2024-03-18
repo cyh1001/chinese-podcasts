@@ -25,7 +25,7 @@ title='''
 end='''
 ## 如何提交
 
-1. 在 [./podcasts.csv](./podcasts.csv) 尾部添加一行，填入播客的 名称、URL、RSS以及标签
+1. 在 [./podcasts.csv](./podcasts.csv) 尾部添加一行，填入播客的 名称、URL、RSS以及标签(RSS可留空,注意请使用英文逗号分隔)
 2. 提交 PR
 3. (自动) PR 被 merge 之后 README 通过 [./createTable.py](./create.py) 生成
 

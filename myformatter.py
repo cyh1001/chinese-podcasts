@@ -14,9 +14,12 @@ def update_rss_feed(file_path):
                 continue
             if not row:  # 跳过空行
                 continue
-            if len(row) != 4:  # 确保每行有四列数据
-                continue
-
+            # if len(row) != 4:  # 确保每行有四列数据
+            #     continue
+            # if not row or len(row) < 4:  # 确保行不为空，并且列数至少为4
+            #     continue
+            # while len(row) < 4:
+            #     row.append("")
             # 处理tags，将分号替换为英文分号，并去除空格
             if row[3]:
                 tags = row[3].strip().replace('；', ';')
