@@ -8,12 +8,11 @@
 
 ## 播客列表
 
-> 欢迎联系我。微信：qq1030353305   email：yihancao1001@gmail.com
+> 欢迎联系我。微信：qq1030353305   email：yihancao1001@gmail.com  QQ:1030353305
 
 
 | 节目 |  RSS 链接 |  分类 |  主播 |  简介 |
 | --- | --- | --- | --- | --- |
-| [三五环]( https://www.xiaoyuzhoufm.com/podcast/5e7eb85d418a84a0465eda82) | http://rsshub.app/xiaoyuzhou/podcast/5e7eb85d418a84a0465eda82 | 商业; 生活 |  刘飞Lufy |   |
 
 
 
