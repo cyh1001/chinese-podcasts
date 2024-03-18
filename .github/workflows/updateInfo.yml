@@ -42,6 +42,6 @@ jobs:
         git add .
         git commit -m "update README and feed.opml after adding podcast(s)"
     - name: Push changes
-      uses: ad-m/github-push-action@main
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
